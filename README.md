@@ -1,1 +1,1 @@
-# Coursera_Capstone
+# IBM_Capstone
